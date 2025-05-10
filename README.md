@@ -75,5 +75,3 @@ CO₂ equivalence factors used in this project are based on reliable environment
 
 ---
 
-> *"Measure what you can, manage what you can’t. Prediction is the first step toward change."*  
-> — Surya Mothukuri
