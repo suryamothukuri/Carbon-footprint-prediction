@@ -29,12 +29,21 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 #### 🔹 Deployment
 
 ---
-
+#### Deployment
 1. **Clone the repository**
-```bash
-git clone https://github.com/suryamothukuri/Carbon-footprint-prediction.git
-cd Carbon-footprint-prediction
 
-pip install -r requirements.txt
+    ```bash
+    git clone https://github.com/suryamothukuri/Carbon-footprint-prediction.git
+    cd Carbon-footprint-prediction
+    ```
 
-streamlit run app/app.py
+2. **Install dependencies**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the app**
+
+    ```bash
+    streamli
