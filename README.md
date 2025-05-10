@@ -1,4 +1,4 @@
-# Carbon Footprint Prediction using Machine Learning
+## Carbon Footprint Prediction using Machine Learning
 
 A full-stack data science project that analyzes individual lifestyle choices to estimate monthly carbon emissions. This project combines exploratory data analysis, machine learning modeling, and an interactive dashboard to help users understand and reduce their carbon footprint.
 
@@ -12,7 +12,7 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## Objectives
+#### Objectives
 
 - Perform detailed **EDA** to uncover patterns in carbon-emitting behaviors
 - Engineer meaningful features using real-world CO₂ equivalence mappings
@@ -21,15 +21,12 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## Methodology
+#### Methodology
 
 ### 🔹 Data Preparation
 ### 🔹 Exploratory Data Analysis (EDA)
 ### 🔹 Modeling
 ### 🔹 Deployment
----
-
-## 📁 Project Structure
 
 ---
 
