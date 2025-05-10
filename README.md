@@ -46,4 +46,10 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 3. **Run the app**
 
     ```bash
-    streamli
+    streamlit run app/app.py
+
+
+---
+#### Acknowledgements
+
+This project is inspired by research into climate change, behavioral data science, and the global push for sustainable living. Data and equivalence mappings are based on estimates from credible environmental sources.
