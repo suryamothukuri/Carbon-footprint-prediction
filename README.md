@@ -4,7 +4,7 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## Project Overview
+#### Project Overview
 
 > **Goal**: Predict a person’s monthly carbon emissions (in kg CO₂) based on lifestyle factors like transport, diet, energy usage, and waste management  
 > **Type**: End-to-end ML Project | Dashboard | Environmental Awareness  
