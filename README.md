@@ -1,4 +1,7 @@
 ## 🌍 Carbon Footprint Prediction using Machine Learning
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit)
+[![Requirements](https://img.shields.io/badge/Requirements-TXT-important?logo=pip)](https://github.com/suryamothukuri/Carbon-footprint-prediction/blob/main/requirements.txt)
 
 A full-stack data science project that analyzes individual lifestyle choices to estimate monthly carbon emissions. This project combines exploratory data analysis, machine learning modeling, and an interactive dashboard to help users understand and reduce their carbon footprint.
 
