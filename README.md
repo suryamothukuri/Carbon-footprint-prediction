@@ -23,10 +23,10 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 #### Methodology
 
-### 🔹 Data Preparation
-### 🔹 Exploratory Data Analysis (EDA)
-### 🔹 Modeling
-### 🔹 Deployment
+#### 🔹 Data Preparation
+#### 🔹 Exploratory Data Analysis (EDA)
+#### 🔹 Modeling
+#### 🔹 Deployment
 
 ---
 
