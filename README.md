@@ -1,10 +1,10 @@
-# 🌍 Carbon Footprint Prediction using Machine Learning
+## 🌍 Carbon Footprint Prediction using Machine Learning
 
 A full-stack data science project that analyzes individual lifestyle choices to estimate monthly carbon emissions. This project combines exploratory data analysis, machine learning modeling, and an interactive dashboard to help users understand and reduce their carbon footprint.
 
 ---
 
-## 📌 Project Overview
+#### 📌 Project Overview
 
 > **Goal**: Predict a person’s monthly carbon emissions (in kg CO₂) based on lifestyle factors like transport, diet, energy usage, and waste management  
 > **Type**: End-to-end ML Project | Dashboard | Environmental Awareness  
@@ -12,7 +12,7 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## 🎯 Objectives
+#### 🎯 Objectives
 
 - Perform detailed **EDA** to uncover patterns in carbon-emitting behaviors
 - Engineer meaningful features using real-world CO₂ equivalence mappings
@@ -21,28 +21,28 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## 🧪 Methodology
+#### 🧪 Methodology
 
-### 🔹 Data Preparation
+#### 🔹 Data Preparation
 - Cleaned raw survey data, handled missing values
 - Created new columns: `diet_emissions`, `vehicle_emissions`, `flight_emissions`, `waste_emissions`
 
-### 🔹 Exploratory Data Analysis (EDA)
+#### 🔹 Exploratory Data Analysis (EDA)
 - Visualized distributions, correlations, and categorical interactions
 - Used boxplots, heatmaps, mosaic plots, and spider charts
 
-### 🔹 Modeling
+#### 🔹 Modeling
 - Built multiple regression models: Ridge, Random Forest, SVR, XGBoost, CatBoost
 - Used `GridSearchCV` for hyperparameter tuning
 - Selected **CatBoost** as the best model based on R² and RMSE
 
-### 🔹 Deployment
+#### 🔹 Deployment
 - Developed an interactive Streamlit app for users to estimate their emissions
 - Model serialized using `joblib` / `.cbm` and used inside the app
 
 ---
 
-## 🚀 Deployment Instructions
+#### 🚀 Deployment Instructions
 
 1. **Clone the repository**
 
@@ -65,7 +65,7 @@ A full-stack data science project that analyzes individual lifestyle choices to 
 
 ---
 
-## 🙌 Acknowledgements
+#### 🙌 Acknowledgements
 
 This project is inspired by research into climate change, behavioral data science, and the global push for sustainable living.  
 CO₂ equivalence factors used in this project are based on reliable environmental datasets and academic sources.
